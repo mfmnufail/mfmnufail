@@ -1,10 +1,11 @@
 
 
-! [] (https://visitor-badge.glitch.me/badge?page_id=mfmnufail.mfmnufail)
+![](https://visitor-badge.glitch.me/badge?page_id=mfmnufail.mfmnufail)
 
 <br />
 
 Hi, I'm [Mohamed Nufail](https://www.linkedin.com/in/mohamed-nufail-796a8b15a) 🚀 from SriLanka,
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
