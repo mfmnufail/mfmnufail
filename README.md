@@ -13,7 +13,7 @@ Hi, I'm [Mohamed Nufail](https://www.linkedin.com/in/mohamed-nufail-796a8b15a) �
 - 🌱 I’m currently learning GraphQL and ML
 - 🤔 I’m looking for help with Monorepo
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: nufailwork@gmail.com
+- 📫 How to reach me: mnufailwork@gmail.com
 
 
 **Languages and Tools:**  
