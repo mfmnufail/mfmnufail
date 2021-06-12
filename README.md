@@ -31,8 +31,7 @@ Hi, I'm [Mohamed Nufail](https://www.linkedin.com/in/mohamed-nufail-796a8b15a) ð
 
 <details>
 <summary>ðŸ“ˆ My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&theme=gotham" alt="mfmnufail" />
+ <img src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&theme=gotham" alt="mfmnufail" />
 
 </details>
 
