@@ -48,7 +48,6 @@ Hi, I'm [Mohamed Nufail](https://www.linkedin.com/in/mohamed-nufail-796a8b15a) ð
  <img src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&theme=gotham" alt="mfmnufail" />
  
  <br />
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfmnufail&show_icons=true&locale=en&layout=compact" alt="mfmnufail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&locale=en" alt="mfmnufail" /></p>
 
