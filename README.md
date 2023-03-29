@@ -1,7 +1,17 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mfmnufail.mfmnufail)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfmnufail)
+
+<br />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mfmnufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfmnufail" height="30" width="40" /></a>
+<a href="https://instagram.com/mfmnufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfmnufail" height="30" width="40" /></a>
+<a href="https://medium.com/@nufailmfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nufailmfm" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mnufailwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mnufailwork" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nufail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nufail" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -31,10 +41,20 @@ Hi, I'm [Mohamed Nufail](https://www.linkedin.com/in/mohamed-nufail-796a8b15a) ð
 
 
 
+
+
+
 <summary>ðŸ“ˆ My GitHub Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&theme=gotham" alt="mfmnufail" />
+ 
+ <br />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfmnufail&show_icons=true&locale=en&layout=compact" alt="mfmnufail" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfmnufail&show_icons=true&locale=en" alt="mfmnufail" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfmnufail&" alt="mfmnufail" /></p>
 
 
-
+<br />
 -----
 Credits: [mfmnufail](https://github.com/mfmnufail)
